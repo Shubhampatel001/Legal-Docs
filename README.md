@@ -6,20 +6,17 @@
 - **User-friendly Interface:** An intuitive design that allows for efficient navigation and interaction.
 - **Secure Storage:** Safely store and retrieve legal documents with ease.
 - **Responsive Design:** Optimized viewing experience across desktop, tablet, and mobile devices.
-- **Chat Integration:** Quick assistance through a built-in chat functionality powered by Voiceflow.
+- **AI ChatBot Integration:** Quick assistance through a built-in chat functionality powered by Voiceflow.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Chat Integration:** Voiceflow for chat functionalities
+- **AI ChatBot Integration:** Voiceflow for chat functionalities
 
 ## Getting Started
 To get started with the **Legal Docs** project, clone this repository and open the `index.html` file in your browser. You can also explore the codebase for a deeper understanding of the implementation.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - [Voiceflow](https://www.voiceflow.com/) for providing the chat integration feature.
